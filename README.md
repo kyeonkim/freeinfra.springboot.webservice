@@ -4,7 +4,9 @@
 
 # 결과
 
-![resultImg.png](gitHubImgFiles%2FresultImg.png)
+![resultImg2.png](gitHubImgFiles%2FresultImg2.png)
+
+![DBImg.png](gitHubImgFiles%2FDBImg.png)
 
 > 사이트 : coming soon...
 
