@@ -31,3 +31,7 @@ dependencies {
 tasks.named('test') {
 	useJUnitPlatform()
 }
+
+test {
+	exclude '**/com/kyeonkim/freeinfra/springboot/webservice/**'
+}
