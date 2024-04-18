@@ -35,3 +35,7 @@ tasks.named('test') {
 test {
 	exclude '**/com/kyeonkim/freeinfra/springboot/webservice/**'
 }
+
+jar {
+	enabled = false
+}
