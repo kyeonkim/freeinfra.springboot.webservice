@@ -14,7 +14,7 @@
 
 # 아키텍처
 
-![img.png](gitHubImgFiles/project_architecture.png)
+![img.png](gitHubImgFiles/project_architecture1.png)
 
 ### 배포 진행(상세)
 
